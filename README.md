@@ -5,5 +5,6 @@ py3.8
 
 - jammy
 - noble
+- resolute
 
 [mainline]: https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
